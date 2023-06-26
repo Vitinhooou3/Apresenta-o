@@ -1,0 +1,50 @@
+
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    background-color: #82bbf5;
+}
+
+.text1, .text2, .text3{
+    border: 1px solid white;
+    border-radius: 10px;
+    background-color: #cad5e0;
+    margin: 2%;
+}
+
+h1,h2,h3,h4{
+    text-align: center;
+}
+
+.foto-pessoal{
+    height: 35vh;
+    width: 20vw;
+    border-radius: 50%;
+}
+
+.redondo{
+    background-color: #82bbf5;
+    height: 40vh;
+    width: 23vw;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-redondo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.navbar-light{
+    background-color: antiquewhite;
+}
